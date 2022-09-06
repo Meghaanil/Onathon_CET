@@ -11,3 +11,17 @@
 - When a player clicks the "new word" button, a new scrambled word appears.
 - If the players get the flag to their side, load the player winner screen.
 - If the players lose to the machine, load the machine winner screen.
+
+## How to configure:🧐
+**1.** Clone this repository to your local drive
+```shell
+ $ git clone https://github.com/Meghaanil/Onathon_CET.git
+```
+**2.** Move to the directory
+
+```
+$ cd Onathon_CET/
+```
+<p align="center">
+ ⭐🌟 Star this repository if you find it useful.🌟⭐
+</p>
