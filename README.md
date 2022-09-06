@@ -12,10 +12,10 @@
 - If the players get the flag to their side, load the player winner screen.
 - If the players lose to the machine, load the machine winner screen.
 
-<img width="400px" src="ho1.png"/>
-<img width="400px" src="ho2.png"/>
-<img width="400px" src="ho3.png"/>
-<img width="400px" src="ho4.png"/>
+<img width="400px" src="im1.png"/>
+<img width="400px" src="im2.png"/>
+<img width="400px" src="im3.png"/>
+<img width="400px" src="im4.png"/>
 
 ## How to configure:🧐
 
