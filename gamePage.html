@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./css/game.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tug of Words</title>
+</head>
+<body>
+    <h1>I Declare...Words!</h1>
+    <h2 id="player">Player 1, your turn!</h2>
+    <h2 id="player2" class="hidden">Player 2, your turn!</h2>
+    <div class="game-container">
+    
+        <p class="player-turn"></p>
+        <p class="scrambled-word"></p>
+    
+        
+        <input class="answer" type="text" placeholder="Your answer here...">
+        <button class="submit">Check Answer</button>
+
+
+        <button class="new-word">Too hard? New Word...</button>
+    
+    </div>
+
+    <div class="tugOfWar">
+        
+        <img class="rope" src="./images/rope.png">  <img class="rope" src="./images/rope.png">   <img class="rope" src="./images/rope.png">    <img src="./images/rope.png">
+
+        <img class="flag" id="flag" src="./images/flag1.png">
+
+    </div>
+   <div>
+        
+   </div>
+    <script src="./js/game.js"></script>
+</body>
+</html>
