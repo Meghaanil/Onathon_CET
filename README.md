@@ -16,7 +16,9 @@
 <img width="400px" src="im2.png"/>
 <img width="400px" src="im3.png"/>
 <img width="400px" src="im4.png"/>
+
 ## How to configure:🧐
+
 **1.** Clone this repository to your local drive
 ```shell
  $ git clone https://github.com/Meghaanil/Onathon_CET.git
