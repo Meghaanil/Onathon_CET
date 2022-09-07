@@ -1,5 +1,5 @@
 # Onathon_CET😍
-# Tug of War_Onam Edition😋
+# Tug of Words_Onam Edition😋
 ## Technologies Used💎
 - HTML
 - CSS
