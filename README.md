@@ -1,4 +1,4 @@
-# Onathon_CET😍
+# Onathon_CET😍-OnamPro
 # Tug of Words_Onam Edition😋
 ## Technologies Used💎
 - HTML
