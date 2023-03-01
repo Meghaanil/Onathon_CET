@@ -28,6 +28,12 @@
 ```
 $ cd Onathon_CET/
 ```
+
+Hosted Website available at 👇
+
+### [Click Me👀](https://meghaanil.github.io/Onathon_CET/)
+
+ 
 <p align="center">
  ⭐🌟 Star this repository if you find it useful.🌟⭐
 </p>
